@@ -9,5 +9,16 @@ system anytime. Company has flexibility of its pricing plans: single-ride passes
 # Business Task:
 How do annual members and casual riders use Cyclistic bikes differently ?
 
-#
+# Data Information:
+
+* Data is official and published by Motivate International Inc. under this [License](https://divvybikes.com/data-license-agreement).
+* [Cyclist's historical data](https://divvy-tripdata.s3.amazonaws.com/index.html) in `.csv` format.
+* Data range is from Mar 4th 2024 to Feb 5th 2025, it contains 12 `.csv` files and overall has (1.1 GB) of information.
+* Dataset contains records of individual ride-id, start time and end time dates, station start and end locations, bike type and membership type (casual or member).
+* Data have been uploaded to google drive, until further analysis.
+# Data Processing And Cleaning:
+
+* Data is uploaded to **BigQuery** for manipulation and cleaning by using SQL.
+* Data vizualisation developed with **Tableau**.
+* 
 
