@@ -20,5 +20,5 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 # Data Processing And Cleaning:
 * Data is uploaded to **BigQuery** for manipulation, cleaning and analysis by using SQL.
 * Data vizualisation developed with **Tableau**.
-* All 12 tables was combined in to one table, view [here](data
+* All 12 tables was combined in to one table, view [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f2e546d9fddd832c3b12edb010a9e1cf7c257b0c/data_combining.sql)
 
