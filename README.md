@@ -21,4 +21,5 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 * Data is uploaded to **BigQuery** for manipulation, cleaning and analysis by using SQL.
 * Data vizualisation developed with **Tableau**.
 * All 12 tables was combined in to one table, view [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f2e546d9fddd832c3b12edb010a9e1cf7c257b0c/data_combining.sql) and has **5854384** rows.
-* Data exploration - to identify the data types and detect any missing values, outliers, inconsistencies, or errors in the dataset [here](
+* Data exploration - to identify the data types and detect any missing values, outliers, inconsistencies, or errors in the dataset [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f1079a23d02b771c2ebabc89ccd197b68c8b44de/data_exploration.sql)
+* 
