@@ -27,7 +27,7 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 
 # Analyze:
 
-SQL querys for analyzing and comparing member and casual memberships, [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f7e49f0b269280f03d44226d8fac1c12923a3bd6/data_analysis.sql)
+SQL querys for analyzing and comparing annual member and casual memberships, [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f7e49f0b269280f03d44226d8fac1c12923a3bd6/data_analysis.sql)
 
 # Share:
 
