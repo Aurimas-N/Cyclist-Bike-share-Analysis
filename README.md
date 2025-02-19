@@ -27,4 +27,4 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 
 # Analyze
 
-SQL querys for analysis, [here](
+SQL querys for analyzing and comparing member and casual memberships, [here](
