@@ -25,6 +25,11 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 * Cleaning - Dublicates, rides with duration less than a minute or longer than a 24h(1440min) and null values are removed also adding 3 more columns - **ride_length_mins** for duration of the trip, **day_of_week** and **month**. Process [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/4878652616e7a1d451aec11187f0fb815b4b0fe4/data_cleaning.sql).
 * Cleaned table now has **4 084 940** rows, that means **1 769 444** rows were removed.
 
-# Analyze
+# Analyze:
 
-SQL querys for analyzing and comparing member and casual memberships, [here](
+SQL querys for analyzing and comparing member and casual memberships, [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f7e49f0b269280f03d44226d8fac1c12923a3bd6/data_analysis.sql)
+
+# Share:
+
+Visualization is done with Tableau, with the focus to answer main question - How do annual members and casual riders use Cyclistic bikes differently?
+
