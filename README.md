@@ -1,5 +1,5 @@
-# Cyclist Bike-share Capstone Project
-### This project was completed as a part of the Google Data Analytics Certification.
+# Cyclist Bike-share Project
+### This project was completed for practise.
 ![image](https://miro.medium.com/v2/resize:fit:768/0*Udb72NivtDgfeetj.png)
 
 # Company Overview:
