@@ -38,6 +38,13 @@ This dashboard show's comparison between member and casual user by bike type.
 
 Out of 4 084 940 total users 63.55% is Member and 36.45% Casual. Most popular bike type is classic bike - overall takes 64,38% (member 41.40%, casual 23.28%) , secondary is electric bike - overall takes 34,19% (member 21.63%, casual 12.56%) and least popular electric scooter - overall takes 1,13% (member 0.52%, casual 0.61%)
 
+Trips per month, weekday and hour comparison.
+![dashboard_2](https://github.com/user-attachments/assets/299704eb-54f0-4bf3-bea4-84fd0333cb95)
+
+
+
+
+
 
 
 
