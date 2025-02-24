@@ -41,6 +41,12 @@ Out of 4 084 940 total users 63.55% is Member and 36.45% Casual. Most popular bi
 Trips per month, weekday and hour comparison.
 ![dashboard_2](https://github.com/user-attachments/assets/299704eb-54f0-4bf3-bea4-84fd0333cb95)
 
+Trips per month - Both casual and member have similar pattern, where lowest trip amount is at January (member 81128 trips and casual 16670 trips), and slowly growing up towards the summer and autumn where member reached it's peak at September (312879 trips) and casual at July (227684 trips). Decrease starts after September for both casual and member, slowly going down.
+Trips per weekday - member peaks at Wednesday (428356 trips) and goes down on weekends where lowest amount of trips is at Sunday (285972 trips). Casual lowest amount is at Tuesday (159007 trips) and rises toward weekend reaching its peak point at Saturday (311662 trips).
+Trips per hour - 
+
+
+
 
 
 
