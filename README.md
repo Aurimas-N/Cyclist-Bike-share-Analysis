@@ -33,3 +33,11 @@ SQL querys for analyzing and comparing annual member and casual memberships, [he
 
 Visualization is done with Tableau, with the focus to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/app/profile/aurimas.naujalis/viz/CyclistBike-shareProject/oftotalrides).
 
+This dashboard show's comparison between member and casual user by bike type.
+![Image](https://github.com/user-attachments/assets/a8768b66-7c07-4167-96b8-28090a7bbef5)
+
+Out of 4 084 940 total users 63.55% is Member and 36.45% Casual. Most popular bike type is classic bike - overall takes 64,38% (member 41.40%, casual 23.28%) , secondary is electric bike - overall takes 34,19% (member 21.63%, casual 12.56%) and least popular electric scooter - overall takes 1,13% (member 0.52%, casual 0.61%)
+
+
+
+
