@@ -33,19 +33,32 @@ SQL querys for analyzing and comparing annual member and casual memberships, [he
 
 Visualization is done with Tableau, with the focus to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/app/profile/aurimas.naujalis/viz/CyclistBike-shareProject/oftotalrides).
 
-This dashboard show's comparison between member and casual user by bike type.
+**This dashboard show's comparison between member and casual user by bike type**.
 ![Image](https://github.com/user-attachments/assets/a8768b66-7c07-4167-96b8-28090a7bbef5)
 
 Out of 4 084 940 total users 63.55% is Member and 36.45% Casual. Most popular bike type is classic bike - overall takes 64,38% (member 41.40%, casual 23.28%) , secondary is electric bike - overall takes 34,19% (member 21.63%, casual 12.56%) and least popular electric scooter - overall takes 1,13% (member 0.52%, casual 0.61%)
 
-Trips per month, weekday and hour comparison.
+**Trips per month, weekday and hour comparison**.
 ![dashboard_2](https://github.com/user-attachments/assets/299704eb-54f0-4bf3-bea4-84fd0333cb95)
 
 **Trips per month** - Both casual and member have similar pattern, where lowest trip amount is at January (member 81128 trips and casual 16670 trips), and slowly growing up towards the summer and autumn where member reached it's peak at September (312879 trips) and casual at July (227684 trips). Decrease starts after September for both casual and member, slowly going down.
 
-**Trips per weekday** - member peaks at Wednesday (428356 trips) and goes down on weekends where lowest amount of trips is at Sunday (285972 trips). Casual lowest amount is at Tuesday (159007 trips) and rises toward weekend reaching its peak point at Saturday (311662 trips).
+**Trips per weekday** - Member peaks at Wednesday (428356 trips) and goes down on weekends where lowest amount of trips is at Sunday (285972 trips). Casual lowest amount is at Tuesday (159007 trips) and rises toward weekend reaching its peak point at Saturday (311662 trips).
 
-**Trips per hour** - 
+**Trips per hour** - Member lowest point is at 03:00 (3997 trips) and has two peaks during commuting hours at 08:00 (187504 trips), then drops down and raises again towards 17:00 (284696 trips), then slowly declines. 
+Casual lowest point is at 03:00 (4619 trips) and slowly grows towards the day, until reaches its peak time at 17:00 ( 143857 trips), then slowly declines.
+
+**Average trip duration comparison**.
+![dashboard_3](https://github.com/user-attachments/assets/d6e92152-cf1f-4b7a-8f71-be2d96cf3a75)
+
+**Average trip duration per month** - Member monthly trip duration doesn't change alot during the year and peak at June (13.44 min) meanwhile casual is aproximatly double during all months compared to member and peaking at July (26.42 min).
+
+**Average trip duration per weekday** - Weekdays trip duration, has similar pattern where casual has almost double duration trips and both has tendency to raise on weekend. Casual peak time Sunday (27.60 min), Member peaks at Saturday (13.85 mins)
+
+**Average trip duration per hour** - Member trip duration doesn't change much during the different hours and average around 12.40 min, casual has lowest point at 05:00 (14.95 min) and grows until raeching peak point at 10:00 (29.24 min), decline is seen after 14:00.
+
+**Start location**.
+
 
 
 
