@@ -31,5 +31,5 @@ SQL querys for analyzing and comparing annual member and casual memberships, [he
 
 # Share:
 
-Visualization is done with Tableau, with the focus to answer main question - How do annual members and casual riders use Cyclistic bikes differently?
+Visualization is done with Tableau, with the focus to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/app/profile/aurimas.naujalis/viz/CyclistBike-shareProject/oftotalrides).
 
