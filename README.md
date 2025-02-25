@@ -63,6 +63,9 @@ Casual lowest point is at 03:00 (4619 trips) and slowly grows towards the day, u
 **Start locations by member and casual**.
 ![dashboard4](https://github.com/user-attachments/assets/889f6be6-39d8-4ec6-b1e7-a1ed961c4b7c)
 
+**Member** - Most of the trips started near train stations, parks, restoraunts, banks, residential areas, schools, hospital.
+**Casual** - Most trips started near the coast, close to museums, beaches, parks, yacht club, aquarium.
+
 
 
 
