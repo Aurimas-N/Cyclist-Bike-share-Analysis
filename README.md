@@ -85,9 +85,9 @@ Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, 
 
 # Act:
 
-recomendations to convert casual riders into members, after analyzing differences:
+Recomendations to convert casual riders into members, after analyzing differences:
 
-* **Benefits for electric bikes** - Casual users have a high demand on electric bikes, offering free ride minutes for new members who frequently rents electric bikes.
+* **Benefits for Electric Bikes Users** - Casual users have a high demand on electric bikes compared to members, offering free ride minutes for new members who frequently rents electric bikes.
 * **Membership Options** - Creating additional membership models - half year, three months or month it would encourage weekends or summer riders to become habitual users.
 * **Personalized Promotions** - After casual user makes 5 rides, offering him 50% discount for first month of annual membership.
 * **Exclusive Access At High Demand Locations** - Offer members priority access to popular pick-up stations during peak times.
