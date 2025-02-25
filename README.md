@@ -34,12 +34,14 @@ SQL querys for analyzing and comparing annual member and casual memberships, [he
 Visualization is done with Tableau, with the focus to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/app/profile/aurimas.naujalis/viz/CyclistBike-shareProject/oftotalrides).
 
 **This dashboard show's comparison between member and casual user by bike type**.
-![Image](https://github.com/user-attachments/assets/a8768b66-7c07-4167-96b8-28090a7bbef5)
+![dashboard1](https://github.com/user-attachments/assets/b7e965fb-4c40-476c-ad57-1bbe31c6fa2b)
+
 
 Out of 4 084 940 total users 63.55% is Member and 36.45% Casual. Most popular bike type is classic bike - overall takes 64,38% (member 41.40%, casual 23.28%) , secondary is electric bike - overall takes 34,19% (member 21.63%, casual 12.56%) and least popular electric scooter - overall takes 1,13% (member 0.52%, casual 0.61%)
 
 **Trips per month, weekday and hour comparison**.
-![dashboard_2](https://github.com/user-attachments/assets/299704eb-54f0-4bf3-bea4-84fd0333cb95)
+![dashboard2](https://github.com/user-attachments/assets/1b20e742-6c33-4a3b-9b18-b686ed77d839)
+
 
 **Trips per month** - Both casual and member have similar pattern, where lowest trip amount is at January (member 81128 trips and casual 16670 trips), and slowly growing up towards the summer and autumn where member reached it's peak at September (312879 trips) and casual at July (227684 trips). Decrease starts after September for both casual and member, slowly going down.
 
@@ -49,7 +51,8 @@ Out of 4 084 940 total users 63.55% is Member and 36.45% Casual. Most popular bi
 Casual lowest point is at 03:00 (4619 trips) and slowly grows towards the day, until reaches its peak time at 17:00 ( 143857 trips), then slowly declines.
 
 **Average trip duration comparison**.
-![dashboard_3](https://github.com/user-attachments/assets/d6e92152-cf1f-4b7a-8f71-be2d96cf3a75)
+![dashboard3](https://github.com/user-attachments/assets/f562b739-8c4b-4835-b617-ba1cce78d7b1)
+
 
 **Average trip duration per month** - Member monthly trip duration doesn't change alot during the year and peak at June (13.44 min) meanwhile casual is aproximatly double during all months compared to member and peaking at July (26.42 min).
 
@@ -57,7 +60,11 @@ Casual lowest point is at 03:00 (4619 trips) and slowly grows towards the day, u
 
 **Average trip duration per hour** - Member trip duration doesn't change much during the different hours and average around 12.40 min, casual has lowest point at 05:00 (14.95 min) and grows until raeching peak point at 10:00 (29.24 min), decline is seen after 14:00.
 
-**Start location**.
+**Start locations by member and casual**.
+![dashboard4](https://github.com/user-attachments/assets/889f6be6-39d8-4ec6-b1e7-a1ed961c4b7c)
+
+
+
 
 
 
