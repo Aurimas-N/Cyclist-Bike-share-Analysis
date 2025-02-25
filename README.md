@@ -74,8 +74,14 @@ Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, 
 
 **Casual** - Ending locations also similar to their starting, most of them ending near the harbor or tourist popular places, showing clear pattern that casual users mostly use bikes for leisure.
 
+**Summary**: 
 
-
+* Most popular for casual and member is classic bike type, but casual riders show slightly more interest in electric bikes and electric scooter overall takes only 1,13% of total rides by type.
+* Casual riders are more seasonal, reaching peak at July, while members maintain steady ridership year-round.
+* Members use bikes for weekday commuting (peaking on Wednesdays), while casual riders use them more for weekend leisure (reaching peak at Saturdays).
+* Members follow a structured commuting pattern and have two peaks — 8 AM and 5 PM, while casuals have a more flexible, gradual usage throughout the day that peaks at 5 PM.
+* Casual riders take longer trips (aproximately double the time of member), suggesting a leisurely riding experience, while members prioritize quick, efficient commutes.
+* Members start and end trips near train stations, schools, hospitals, and residential areas, showing a commuting pattern. Casual riders start and end trips near coastal areas, tourist attractions, and parks, indicating recreational use.
 
 
 
