@@ -58,7 +58,7 @@ Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, 
 
 **Average trip duration per weekday** - Weekdays trip duration, has similar pattern where casual has almost double duration trips and both has tendency to raise on weekend. Casual peak time Sunday (27.60 min), Member peaks at Saturday (13.85 min)
 
-**Average trip duration per hour** - Member trip duration doesn't change much during the different hours and average around 12.40 min, casual has lowest point at 05:00 (14.95 min) and grows until raeching peak point at 10:00 (29.24 min), decline is seen after 14:00.
+**Average trip duration per hour** - Member trip duration doesn't change much during the different hours and average around 12.40 min, casual has lowest point at 05:00 (14.95 min) and grows until reaching peak point at 10:00 (29.24 min), decline is seen after 14:00.
 
 **Starting trip locations by member and casual**.
 ![dashboard4](https://github.com/user-attachments/assets/889f6be6-39d8-4ec6-b1e7-a1ed961c4b7c)
@@ -73,6 +73,8 @@ Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, 
 **Member**- Ending locations are very similar to starting, most of them ending in residential areas further from the harbor, showing clear pattern that members use bikes mostly for daily commute.
 
 **Casual** - Ending locations also similar to their starting, most of them ending near the harbor or tourist popular places, showing clear pattern that casual users mostly use bikes for leisure.
+
+
 
 
 
