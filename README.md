@@ -83,6 +83,16 @@ Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, 
 * Casual riders take longer trips (aproximately double the time of member), suggesting a leisurely riding experience, while members prioritize quick, efficient commutes.
 * Members start and end trips near train stations, schools, hospitals, and residential areas, showing a commuting pattern. Casual riders start and end trips near coastal areas, tourist attractions, and parks, indicating recreational use.
 
+# Act:
+
+recomendations to convert casual riders into members, after analyzing differences:
+
+* **Membership Options** - Creating additional membership models - half year, three months or month it would encourage weekends or summer riders to become habitual users.
+* **Personalized Promotions** - After casual user makes 5 rides, offering him 50% discount for first month of annual membership.
+* **Exclusive Access At High Demand Locations** - Offer members priority access to popular pick-up stations during peak times.
+* **Discounted Hourly Rates for Members** - Casual users on average ride twice longer trips, show them in application how a membership saves money on extended rides.
+
+
 
 
 
