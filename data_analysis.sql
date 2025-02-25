@@ -95,7 +95,7 @@ AVG(end_lat) AS end_lat,
 AVG(end_lng) AS end_lng,
 COUNT(*) AS total_rides
 FROM `bikes-451213.bikesall.cleaned_cyclistic_data`
-WHERE member_casual = 'member'
+WHERE member_casual = 'casual'
 GROUP BY member_casual, end_station_name;
 
 -- Start location for member.
@@ -105,7 +105,7 @@ AVG(start_lat) AS start_lat,
 AVG(start_lng) AS start_lng,
 COUNT(*) AS total_rides
 FROM `bikes-451213.bikesall.cleaned_cyclistic_data`
-WHERE member_casual = 'casual'
+WHERE member_casual = 'member'
 GROUP BY member_casual, start_station_name;
 
 -- End location for member.
