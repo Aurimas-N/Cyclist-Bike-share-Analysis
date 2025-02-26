@@ -24,7 +24,7 @@ The director of marketing and my manager, has set a clear goal: Design marketing
 * Data vizualisation was developed with **Tableau**.
 * All 12 tables were combined in to one table, view [here](data_combining.sql) and contains **5 854 384** rows.
 * Data exploration - to identify the data types and detect any **missing values, outliers, inconsistencies**, or **errors** in the dataset - [here](data_exploration.sql).
-* Cleaning - **Dublicates**, rides with duration less than a **minute** or longer than a **24h(1440min)** and n**ull values** are removed also adding **3 more columns** - **ride_length_mins** for duration of the trip, **day_of_week** and **month**. Process [here](data cleaning.sql).
+* Cleaning - **Dublicates**, rides with duration less than a **minute** or longer than a **24h(1440min)** and n**ull values** are removed also adding **3 more columns** - **ride_length_mins** for duration of the trip, **day_of_week** and **month**. Process [here](data_cleaning.sql).
 * The cleaned table now contains **4 084 940** rows, that means **1 769 444** rows were removed.
 
 # Analyze:
