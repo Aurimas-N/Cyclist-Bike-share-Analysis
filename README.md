@@ -13,34 +13,34 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 
 * Data is official and published by Motivate International Inc. under this [License](https://divvybikes.com/data-license-agreement).
 * [Cyclist's historical data](https://divvy-tripdata.s3.amazonaws.com/index.html) in `.csv` format.
-* Data range is from Mar 4th 2024 to Feb 5th 2025, it contains 12 `.csv` files and overall has (1.1 GB) of information.
-* The dataset contains records of individual ride-id, start time and end time dates, station start and end locations, bike type and membership type (casual or member).
+* Data range is from **Mar 4th 2024** to **Feb 5th 2025**, it contains **12 `.csv` files** and overall has **(1.1 GB)** of information.
+* The dataset contains records of individual **ride-id, start time** and **end time dates**, **station start** and **end locations**, **bike type** and membership type **(casual or member)**.
 * Data have been uploaded to **Google Cloud Storage** , until further analysis.
 
 # Data Processing And Cleaning:
-* Data is uploaded to **BigQuery** for manipulation, cleaning and analysis by using SQL.
+* Data is uploaded to **BigQuery** for manipulation, cleaning and analysis by using **SQL**.
 * Data vizualisation was developed with **Tableau**.
 * All 12 tables were combined in to one table, view [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f2e546d9fddd832c3b12edb010a9e1cf7c257b0c/data_combining.sql) and contains **5 854 384** rows.
-* Data exploration - to identify the data types and detect any missing values, outliers, inconsistencies, or errors in the dataset - [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/4cbbd89066b61295bef09407de9d58886e90616a/data_exploration.sql).
-* Cleaning - Dublicates, rides with duration less than a minute or longer than a 24h(1440min) and null values are removed also adding 3 more columns - **ride_length_mins** for duration of the trip, **day_of_week** and **month**. Process [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/4878652616e7a1d451aec11187f0fb815b4b0fe4/data_cleaning.sql).
+* Data exploration - to identify the data types and detect any **missing values, outliers, inconsistencies**, or **errors** in the dataset - [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/4cbbd89066b61295bef09407de9d58886e90616a/data_exploration.sql).
+* Cleaning - **Dublicates**, rides with duration less than a minute or longer than a **24h(1440min)** and n**ull values** are removed also adding **3 more columns** - **ride_length_mins** for duration of the trip, **day_of_week** and **month**. Process [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/4878652616e7a1d451aec11187f0fb815b4b0fe4/data_cleaning.sql).
 * The cleaned table now contains **4 084 940** rows, that means **1 769 444** rows were removed.
 
 # Analyze:
 
-SQL queries for analyzing and comparing annual member and casual memberships, [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f7e49f0b269280f03d44226d8fac1c12923a3bd6/data_analysis.sql)
+**SQL** queries for analyzing and comparing annual member and casual memberships, [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f7e49f0b269280f03d44226d8fac1c12923a3bd6/data_analysis.sql)
 
 # Share:
 
-Visualization was created with Tableau, focusing to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/views/CyclistBike-shareProject/OfTotalRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Visualization was created with **Tableau**, focusing to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/views/CyclistBike-shareProject/OfTotalRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 **This dashboard shows a comparison between member and casual user by bike type**.
 ![dashboard1](https://github.com/user-attachments/assets/b7e965fb-4c40-476c-ad57-1bbe31c6fa2b)
 
 
-* Out of 4,084,940 total users, 63.55% are members, and 36.45% are casual riders.
-* The most popular bike type is classic bikes, accounting for 64.38% of all rides (members: 41.40%, casual: 23.28%).
-* The second most used type is electric bikes, making up 34.19% of rides (members: 21.63%, casual: 12.56%).
-* The least used option is electric scooters, representing only 1.13% of total rides (members: 0.52%, casual: 0.61%).
+* Out of **4,084,940 total** users, **63.55%** are members, and **36.45%** are casual riders.
+* The most popular bike type is classic bikes, accounting for **64.38%** of all rides (**members: 41.40%, casual: 23.28%**).
+* The second most used type is electric bikes, making up **34.19%** of rides (**members: 21.63%, casual: 12.56%**).
+* The least used option is electric scooters, representing only **1.13%** of total rides (**members: 0.52%, casual: 0.61%**).
 
 **Trips per month, weekday and hour comparison**.
 ![dashboard2](https://github.com/user-attachments/assets/1b20e742-6c33-4a3b-9b18-b686ed77d839)
