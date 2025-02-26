@@ -81,7 +81,7 @@ Casual lowest point is at **03:00 (4 619 trips)** and slowly grows towards the d
 
 **Summary**: 
 
-* The most popular bike type for both casual riders and members is classic bike type, but casual riders show slightly more interest in electric bikes and electric scooter overall takes only 1,13% of total rides by type.
+* The classic bikes is the most popular choice among both casual riders and members, followed by electric bikes. Electric scooters account for only 1.13% of total rides, making them the least used option.
 * Casual riders are more seasonal, reaching peak in July, while members maintain a steady ridership year-round.
 * Members use bikes for weekday commuting (peaking on Wednesdays), while casual riders use them more for weekend leisure (reaching peak at Saturdays).
 * Members follow a structured commuting pattern and have two peaks — 8 AM and 5 PM, while casuals have a more flexible, gradual usage throughout the day that peaks at 5 PM.
