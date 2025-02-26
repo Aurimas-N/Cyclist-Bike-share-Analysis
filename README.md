@@ -7,7 +7,9 @@ Cyclistic bikes rental company based in Chikago was launched in 2016 and has 5,8
 system anytime. The company offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Cyclistic offers a variety of bike types making their bike-share service more inclusive.
 
 # Business Task:
-How do annual members and casual riders use Cyclistic bikes differently ?
+The director of marketing and my manager. has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the team needs to better understand how annual members and casual riders differ.
+
+* **Task** - How do annual members and casual riders use Cyclistic bikes differently ?
 
 # Data Information:
 
