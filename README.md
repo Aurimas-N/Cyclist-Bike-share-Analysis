@@ -4,7 +4,7 @@
 
 # Company Overview:
 Cyclistic bikes rental company based in Chikago was launched in 2016 and has 5,824  bicycles and 692 docking stations. Bikes can be unlocked from one station and returned to any other station in the
-system anytime. Company has flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Cyclistic offers a variety of bike types making their bike-share service more inclusive.
+system anytime. The company offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Cyclistic offers a variety of bike types making their bike-share service more inclusive.
 
 # Business Task:
 How do annual members and casual riders use Cyclistic bikes differently ?
@@ -14,26 +14,26 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 * Data is official and published by Motivate International Inc. under this [License](https://divvybikes.com/data-license-agreement).
 * [Cyclist's historical data](https://divvy-tripdata.s3.amazonaws.com/index.html) in `.csv` format.
 * Data range is from Mar 4th 2024 to Feb 5th 2025, it contains 12 `.csv` files and overall has (1.1 GB) of information.
-* Dataset contains records of individual ride-id, start time and end time dates, station start and end locations, bike type and membership type (casual or member).
+* The dataset contains records of individual ride-id, start time and end time dates, station start and end locations, bike type and membership type (casual or member).
 * Data have been uploaded to **Google Cloud Storage** , until further analysis.
 
 # Data Processing And Cleaning:
 * Data is uploaded to **BigQuery** for manipulation, cleaning and analysis by using SQL.
-* Data vizualisation developed with **Tableau**.
-* All 12 tables was combined in to one table, view [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f2e546d9fddd832c3b12edb010a9e1cf7c257b0c/data_combining.sql) and has **5 854 384** rows.
+* Data vizualisation was developed with **Tableau**.
+* All 12 tables were combined in to one table, view [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f2e546d9fddd832c3b12edb010a9e1cf7c257b0c/data_combining.sql) and contains **5 854 384** rows.
 * Data exploration - to identify the data types and detect any missing values, outliers, inconsistencies, or errors in the dataset - [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/4cbbd89066b61295bef09407de9d58886e90616a/data_exploration.sql).
 * Cleaning - Dublicates, rides with duration less than a minute or longer than a 24h(1440min) and null values are removed also adding 3 more columns - **ride_length_mins** for duration of the trip, **day_of_week** and **month**. Process [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/4878652616e7a1d451aec11187f0fb815b4b0fe4/data_cleaning.sql).
-* Cleaned table now has **4 084 940** rows, that means **1 769 444** rows were removed.
+* The cleaned table now contains **4 084 940** rows, that means **1 769 444** rows were removed.
 
 # Analyze:
 
-SQL querys for analyzing and comparing annual member and casual memberships, [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f7e49f0b269280f03d44226d8fac1c12923a3bd6/data_analysis.sql)
+SQL queries for analyzing and comparing annual member and casual memberships, [here](https://github.com/Aurimas-N/Cyclist-Bike-share-Analysis/blob/f7e49f0b269280f03d44226d8fac1c12923a3bd6/data_analysis.sql)
 
 # Share:
 
-Visualization is done with Tableau, with the focus to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/views/CyclistBike-shareProject/OfTotalRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Visualization was created with Tableau, focusing to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/views/CyclistBike-shareProject/OfTotalRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-**This dashboard show's comparison between member and casual user by bike type**.
+**This dashboard shows a comparison between member and casual user by bike type**.
 ![dashboard1](https://github.com/user-attachments/assets/b7e965fb-4c40-476c-ad57-1bbe31c6fa2b)
 
 
