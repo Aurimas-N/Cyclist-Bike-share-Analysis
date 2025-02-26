@@ -37,7 +37,10 @@ Visualization was created with Tableau, focusing to answer main question - How d
 ![dashboard1](https://github.com/user-attachments/assets/b7e965fb-4c40-476c-ad57-1bbe31c6fa2b)
 
 
-Out of 4 084 940 total users 63.55% is Member and 36.45% Casual. Most popular bike type is classic bike - overall takes 64,38% (member 41.40%, casual 23.28%) , secondary is electric bike - overall takes 34,19% (member 21.63%, casual 12.56%) and least popular electric scooter - overall takes 1,13% (member 0.52%, casual 0.61%)
+* Out of 4,084,940 total users, 63.55% are members, and 36.45% are casual riders.
+* The most popular bike type is classic bikes, accounting for 64.38% of all rides (members: 41.40%, casual: 23.28%).
+* The second most used type is electric bikes, making up 34.19% of rides (members: 21.63%, casual: 12.56%).
+* The least used option is electric scooters, representing only 1.13% of total rides (members: 0.52%, casual: 0.61%).
 
 **Trips per month, weekday and hour comparison**.
 ![dashboard2](https://github.com/user-attachments/assets/1b20e742-6c33-4a3b-9b18-b686ed77d839)
@@ -63,7 +66,7 @@ Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, 
 **Starting trip locations by member and casual**.
 ![dashboard4](https://github.com/user-attachments/assets/889f6be6-39d8-4ec6-b1e7-a1ed961c4b7c)
 
-**Member** - Most of the trips started near train stations, parks, restoraunts, banks, residential areas, schools, hospital.
+**Member** - Most of the trips started near train stations, parks, restaurants, banks, residential areas, schools, hospital.
 
 **Casual** - Most trips started near the coast, close to museums, beaches, parks, yacht club, aquarium.
 
@@ -76,22 +79,22 @@ Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, 
 
 **Summary**: 
 
-* Most popular for casual and member is classic bike type, but casual riders show slightly more interest in electric bikes and electric scooter overall takes only 1,13% of total rides by type.
-* Casual riders are more seasonal, reaching peak at July, while members maintain steady ridership year-round.
+* The most popular bike type for both casual riders and members is classic bike type, but casual riders show slightly more interest in electric bikes and electric scooter overall takes only 1,13% of total rides by type.
+* Casual riders are more seasonal, reaching peak in July, while members maintain a steady ridership year-round.
 * Members use bikes for weekday commuting (peaking on Wednesdays), while casual riders use them more for weekend leisure (reaching peak at Saturdays).
 * Members follow a structured commuting pattern and have two peaks — 8 AM and 5 PM, while casuals have a more flexible, gradual usage throughout the day that peaks at 5 PM.
-* Casual riders take longer trips (aproximately double the time of member), suggesting a leisurely riding experience, while members prioritize quick, efficient commutes.
+* Casual riders take longer trips (approximately double the duration of members' rides), suggesting a leisurely riding experience, while members prioritize quick, efficient commutes.
 * Members start and end trips near train stations, schools, hospitals, and residential areas, showing a commuting pattern. Casual riders start and end trips near coastal areas, tourist attractions, and parks, indicating recreational use.
 
 # Act:
 
-Recomendations to convert casual riders into members, after analyzing differences:
+Recommendations to convert casual riders into members, after analyzing differences:
 
-* **Benefits for Electric Bikes Users** - Casual users have a high demand on electric bikes compared to members, offering free ride minutes for new members who frequently rents electric bikes.
+* **Benefits for Electric Bikes Users** - Casual users have a high demand on electric bikes compared to members, offering free ride minutes for new members who frequently rent electric bikes.
 * **Membership Options** - Creating additional membership models - half year, three months or month it would encourage weekends or summer riders to become habitual users.
-* **Personalized Promotions** - After casual user makes 5 rides, offering him 50% discount for first month of annual membership.
+* **Personalized Promotions** - After a casual user completes five rides, offer them 50% discount for first month of annual membership.
 * **Exclusive Access At High Demand Locations** - Offer members priority access to popular pick-up stations during peak times.
-* **Discounted Hourly Rates for Members** - Casual users on average ride twice longer trips, show them in application how a membership saves money on extended rides.
+* **Discounted Hourly Rates for Members** - Casual users, on average, take trips that are twice as long, show them in application how a membership saves money on extended rides.
 
 
 
