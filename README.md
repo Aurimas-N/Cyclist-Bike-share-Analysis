@@ -37,7 +37,7 @@ Visualization was created with **Tableau**, focusing to answer main question - H
 ![dashboard1](https://github.com/user-attachments/assets/b7e965fb-4c40-476c-ad57-1bbe31c6fa2b)
 
 
-* Out of **4,084,940 total** users, **63.55%** are members, and **36.45%** are casual riders.
+* Out of **4,084,940 total** users, **63.55% are members**, and **36.45% are casual riders**.
 * The most popular bike type is classic bikes, accounting for **64.38%** of all rides (**members: 41.40%, casual: 23.28%**).
 * The second most used type is electric bikes, making up **34.19%** of rides (**members: 21.63%, casual: 12.56%**).
 * The least used option is electric scooters, representing only **1.13%** of total rides (**members: 0.52%, casual: 0.61%**).
@@ -46,22 +46,22 @@ Visualization was created with **Tableau**, focusing to answer main question - H
 ![dashboard2](https://github.com/user-attachments/assets/1b20e742-6c33-4a3b-9b18-b686ed77d839)
 
 
-**Trips per month** - Both casual and member have similar pattern, where lowest trip amount is at January (member 81 128 trips and casual 16 670 trips), and slowly growing up towards the summer and autumn where member reached it's peak at September (312 879 trips) and casual at July (227 684 trips). Decrease starts after September for both casual and member, slowly going down.
+**Trips per month** - Both casual and member have similar pattern, where lowest trip amount is at January (**member 81 128 trips and casual 16 670 trips**), and slowly growing up towards the summer and autumn where member reached it's peak at **September (312 879 trips**) and casual at **July (227 684 trips**). Decrease starts after September for both casual and member, slowly going down.
 
-**Trips per weekday** - Member peaks at Wednesday (428 356 trips) and goes down on weekends where lowest amount of trips is at Sunday (285 972 trips). Casual lowest amount is at Tuesday (159 007 trips) and rises toward weekend reaching its peak point at Saturday (311 662 trips).
+**Trips per weekday** - Member peaks at **Wednesday (428 356 trips)** and goes down on weekends where lowest amount of trips is at **Sunday (285 972 trips)**. Casual lowest amount is at **Tuesday (159 007 trips)** and rises toward weekend reaching its peak point at **Saturday (311 662 trips)**.
 
-**Trips per hour** - Member lowest point is at 03:00 (3997 trips) and has two peaks during commuting hours at 08:00 (187 504 trips), then drops down and raises again towards 17:00 (284 696 trips), then slowly declines. 
-Casual lowest point is at 03:00 (4 619 trips) and slowly grows towards the day, until reaches its peak time at 17:00 ( 143 857 trips), then slowly declines.
+**Trips per hour** - Member lowest point is at **03:00 (3997 trips)** and has two peaks during commuting hours at **08:00 (187 504 trips)**, then drops down and raises again towards **17:00 (284 696 trips)**, then slowly declines. 
+Casual lowest point is at **03:00 (4 619 trips)** and slowly grows towards the day, until reaches its peak time at **17:00 ( 143 857 trips)**, then slowly declines.
 
 **Average trip duration comparison**.
 ![dashboard3](https://github.com/user-attachments/assets/f562b739-8c4b-4835-b617-ba1cce78d7b1)
 
 
-**Average trip duration per month** - Member monthly trip duration doesn't change alot during the year and peak at June (13.44 min) meanwhile casual is aproximatly double during all months compared to member and peaking at July (26.42 min).
+**Average trip duration per month** - Member monthly trip duration doesn't change alot during the year and peak at **June (13.44 min)** meanwhile casual is aproximatly double during all months compared to member and peaking at **July (26.42 min)**.
 
-**Average trip duration per weekday** - Weekdays trip duration, has similar pattern where casual has almost double duration trips and both has tendency to raise on weekend. Casual peak time Sunday (27.60 min), Member peaks at Saturday (13.85 min)
+**Average trip duration per weekday** - Weekdays trip duration, has similar pattern where casual has almost double duration trips and both has tendency to raise on weekend. Casual peak time **Sunday (27.60 min)**, Member peaks at **Saturday (13.85 min)**
 
-**Average trip duration per hour** - Member trip duration doesn't change much during the different hours and average around 12.40 min, casual has lowest point at 05:00 (14.95 min) and grows until reaching peak point at 10:00 (29.24 min), decline is seen after 14:00.
+**Average trip duration per hour** - Member trip duration doesn't change much during the different hours and average around **12.40 min**, casual has lowest point at **05:00 (14.95 min)** and grows until reaching peak point at **10:00 (29.24 min)**, decline is seen after **14:00**.
 
 **Starting trip locations by member and casual**.
 ![dashboard4](https://github.com/user-attachments/assets/889f6be6-39d8-4ec6-b1e7-a1ed961c4b7c)
