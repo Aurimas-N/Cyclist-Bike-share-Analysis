@@ -92,7 +92,7 @@ Casual lowest point is at **03:00 (4 619 trips)** and slowly grows towards the d
 
 Recommendations to convert casual riders into members, after analyzing differences:
 
-* **Benefits for Electric Bikes Users** - Casual users have a high demand on electric bikes compared to members, offering free ride minutes for new members who frequently rent electric bikes.
+* **Benefits for Electric Bikes and Electric Scooters Users** - Cyclistic could introduce incentives such as free ride minutes for new members who rent electric bikes and electric scooters. This strategy may encourage more casual riders to convert to membership while also promoting the use of electric bikes and electric scooters.
 * **Membership Options** - Creating additional membership models - half year, three months or month it would encourage weekends or summer riders to become habitual users.
 * **Personalized Promotions** - After a casual user completes five rides, offer them 50% discount for first month of annual membership.
 * **Exclusive Access At High Demand Locations** - Offer members priority access to popular pick-up stations during peak times.
