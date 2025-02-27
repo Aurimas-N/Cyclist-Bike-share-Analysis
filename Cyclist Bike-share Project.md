@@ -29,7 +29,7 @@ The director of marketing and my manager, has set a clear goal: Design marketing
 
 # Analyze:
 
-**SQL** queries for analyzing and comparing annual member and casual memberships - [analyze with SQL](data_analysis.sql)
+**SQL** queries for analyzing and comparing annual member and casual memberships - [analyze with SQL](data_analysis.sql).
 
 # Share:
 
