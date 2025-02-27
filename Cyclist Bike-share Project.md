@@ -3,7 +3,7 @@
 ![image](https://miro.medium.com/v2/resize:fit:768/0*Udb72NivtDgfeetj.png)
 
 # Company Overview:
-Cyclistic bikes rental company based in Chikago was launched in 2016 and has 5,824  bicycles and 692 docking stations. Bikes can be unlocked from one station and returned to any other station in the
+Cyclistic bikes rental company based in Chicago was launched in 2016 and has 5,824  bicycles and 692 docking stations. Bikes can be unlocked from one station and returned to any other station in the
 system anytime. The company offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Cyclistic offers a variety of bike types making their bike-share service more inclusive.
 
 # Business Task:
