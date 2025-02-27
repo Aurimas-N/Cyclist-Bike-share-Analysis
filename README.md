@@ -12,4 +12,7 @@ This project analyzes bike-sharing data from Cyclistic, a bike rental company in
 
 ## View
 
-[Main Project Documentation](
+* [Main Project Documentation](Cyclist Bike-share Project.md)
+* [Tableau Dashboards](https://public.tableau.com/views/CyclistBike-shareProject/OfTotalRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
