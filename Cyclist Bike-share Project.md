@@ -22,18 +22,18 @@ The director of marketing and my manager, has set a clear goal: Design marketing
 # Data Processing And Cleaning:
 * Data is uploaded to **BigQuery** for manipulation, cleaning and analysis by using **SQL**.
 * Data vizualisation was developed with **Tableau**.
-* All 12 tables were combined in to one table, view [here](data_combining.sql) and contains **5 854 384** rows.
-* Data exploration - to identify the data types and detect any **missing values, outliers, inconsistencies**, or **errors** in the dataset - [here](data_exploration.sql).
-* Cleaning - **Dublicates**, rides with duration less than a **minute** or longer than a **24h(1440min)** and n**ull values** are removed also adding **3 more columns** - **ride_length_mins** for duration of the trip, **day_of_week** and **month**. Process [here](data_cleaning.sql).
+* All 12 tables were combined in to one table and contains **5 854 384** rows - [combination process with SQL](data_combining.sql).
+* Data exploration - to identify the data types and detect any **missing values, outliers, inconsistencies**, or **errors** in the dataset - [exploration process with SQL](data_exploration.sql).
+* Cleaning - **Dublicates**, rides with duration less than a **minute** or longer than a **24h(1440min)** and n**ull values** are removed also adding **3 more columns** - **ride_length_mins** for duration of the trip, **day_of_week** and **month** - [cleaning process with SQL](data_cleaning.sql).
 * The cleaned table now contains **4 084 940** rows, that means **1 769 444** rows were removed.
 
 # Analyze:
 
-**SQL** queries for analyzing and comparing annual member and casual memberships, [here](data_analysis.sql)
+**SQL** queries for analyzing and comparing annual member and casual memberships - [analyze with SQL](data_analysis.sql)
 
 # Share:
 
-Visualization was created with **Tableau**, focusing to answer main question - How do annual members and casual riders use Cyclistic bikes differently? Published dashboard can be seen [here](https://public.tableau.com/views/CyclistBike-shareProject/OfTotalRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Visualization was created with **Tableau**, focusing to answer main question - How do annual members and casual riders use Cyclistic bikes differently? [published tableau dashboards link](https://public.tableau.com/views/CyclistBike-shareProject/OfTotalRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 **This dashboard shows a comparison between member and casual user by bike type**.
 ![dashboard1](https://github.com/user-attachments/assets/b7e965fb-4c40-476c-ad57-1bbe31c6fa2b)
