@@ -5,10 +5,10 @@ This project analyzes bike-sharing data from Cyclistic, a bike rental company in
 
 ## Tools
 
-* **Data Storage**: Google Cloud Storage, BigQuery.
-* **Data transformation, cleaning, exploration & Analysis**: Big Query SQL.
-* **Data Visualization**: Tableau.
-* **Project Management**: GitHub.
+* **Data Storage**: Google Cloud Storage, BigQuery
+* **Data transformation, cleaning, exploration & Analysis**: BigQuery SQL
+* **Data Visualization**: Tableau
+* **Project Management**: GitHub
 
 ## View
 
